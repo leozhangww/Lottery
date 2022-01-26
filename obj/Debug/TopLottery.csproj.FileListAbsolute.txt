@@ -1,0 +1,10 @@
+D:\脚本\Top Lottery\TopLottery\bin\Debug\TopLottery.exe.config
+D:\脚本\Top Lottery\TopLottery\bin\Debug\TopLottery.exe
+D:\脚本\Top Lottery\TopLottery\bin\Debug\TopLottery.pdb
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.csprojAssemblyReference.cache
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.Form1.resources
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.Properties.Resources.resources
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.csproj.GenerateResource.cache
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.csproj.CoreCompileInputs.cache
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.exe
+D:\脚本\Top Lottery\TopLottery\obj\Debug\TopLottery.pdb
